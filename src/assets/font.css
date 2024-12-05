@@ -1,0 +1,39 @@
+@font-face {
+    font-family: '寒蝉全圆体';
+    src: url('https://infishow.ideamake.cn/font/ChillRoundFRegular/result.css');
+}
+
+@font-face {
+    font-family: 'LXGWWenKai';
+    src: url('https://infishow.ideamake.cn/privately_pc/modules/font/LxgwWenKai_Webfonts-master/dist/LXGWWenKai-Regular.css');
+}
+
+@font-face {
+    font-family: 'Alimama DongFangDaKai';
+    src: url('https://infishow.ideamake.cn/font/AlimamaDongFangDaKai-Regular/result.css');
+}
+
+@font-face {
+    font-family: 'ChillHuoFangKai_F';
+    src: url('https://infishow.ideamake.cn/font/ChillHuoFangKai_F_Regular/result.css');
+}
+
+@font-face {
+    font-family: 'Uranus Pixel 11Px';
+    src: url('https://infishow.ideamake.cn/font/Uranus_Pixel_11Px/result.css');
+}
+
+@font-face {
+    font-family: 'MaokenZhuyuanTi';
+    src: url('https://infishow.ideamake.cn/font/MaokenZhuyuanTi/result.css');
+}
+
+@font-face {
+    font-family: 'GuanZhi 8px';
+    src: url('https://infishow.ideamake.cn/font/GuanZhi-8px/result.css');
+}
+
+@font-face {
+    font-family: 'Smiley Sans Oblique';
+    src: url('https://chinese-fonts-cdn.deno.dev/packages/dyh/dist/SmileySans-Oblique/result.css');
+}
